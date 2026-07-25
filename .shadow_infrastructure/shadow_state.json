@@ -1,0 +1,9 @@
+{
+  "system_id": "robotics-vla-torque-sentinel",
+  "shadow_mode": "ACTIVE",
+  "mastermind_synced": true,
+  "telemetry": {
+    "control_frequency_hz": 1000.0,
+    "safety_status": "ROBOTICS_TORQUE_NOMINAL"
+  }
+}
