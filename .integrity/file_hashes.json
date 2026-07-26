@@ -1,0 +1,16 @@
+{
+  "repo": "robotics-vla-torque-sentinel",
+  "algorithm": "sha256",
+  "file_count": 9,
+  "hashes": {
+    "README.md": "8049a3f4006c3ef5412b5d744a616d9682f9d3b7528cf6fe65541c13037d9af2",
+    "AKOS.md": "b6555f6d5bd50ec50eeb0d78696c062202157e8ea8b6fdf11cb52bef01a1e482",
+    "AGENTS.md": "0d8c53a3fac31e905599a56a7c36fa95a71105a3999e153a3f8e3c9bbba79d57",
+    "HELIX_STRAND.md": "9241f7c07fbab28123db183980e8504cef4bad587030768d3a6de5d4dc13bf5b",
+    "mastermind_sidecar.py": "bd7e1558e13c1ae767a3da7760447f3e85184e77d9cc7abfcaca2400712fd578",
+    "SECURITY_AND_FLEET_OPS.md": "26141c0f07d95847d679de423ddb7bdee6f3e319d204383c89a58d6d3bb610c7",
+    "HELIX.md": "72f875392c89b3995dc5c6a3c018659a8a3f5bad0416e44b393af6f796394ea7",
+    "tests/test_robotics.py": "fa7bcea1c082b8417e45a9e369cc709e8dad08983ce0ed182d224794f2bfea95",
+    "src/robotics_vla_torque_sentinel.py": "612bc7fb593579129825c54f44ab6a4ce28c31b2bed288f185b812b84fdb7f55"
+  }
+}
