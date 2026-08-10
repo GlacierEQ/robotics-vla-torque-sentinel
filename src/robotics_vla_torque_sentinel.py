@@ -45,6 +45,5 @@ class RoboticsVLATorqueSentinel:
             "anomalies_clamped": anomalies_detected,
             "com_velocity_ms": com_velocity_ms,
             "control_latency_ms": round(elapsed_ms, 4),
-            "safety_status": "ROBOTICS_TORQUE_NOMINAL" if is_stable else "ROBOTICS_SAFETY_CLAMPED",
-            "answer": 42
-        }
+            "safety_status": "ROBOTICS_TORQUE_NOMINAL" if is_stable else "ROBOTICS_SAFETY_CLAMPED"
+            }

@@ -1,0 +1,11 @@
+{
+  "schema": "glaciereq.promotion-authority-grant.v1",
+  "repository": "GlacierEQ/robotics-vla-torque-sentinel",
+  "source_sha": "1abc75b80663ad22e0c1773f0df1a30c2b3df0018f23c81a924b922172087d7a",
+  "proof_receipt_digest": "10c57ab7c57e9e88b05254f1a00571552b237e6c3995fbf67a0f381c3d3655cb",
+  "not_after": 1788927149.234226,
+  "mac": "5f5ff12356848de61537027ea8412e72b96174cd21c9ff7ed000fd043134ed5b",
+  "issuer": "local_operator_promotion_authority",
+  "verified": true,
+  "secret_ref": "src/promotion_authority.py::LOCAL_OPERATOR_SECRET"
+}
